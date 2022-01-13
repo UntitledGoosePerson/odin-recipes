@@ -1,0 +1,30 @@
+a {
+    color: tomato;
+    text-decoration: none;   
+}
+
+a:hover {
+    color: gold;
+}
+
+body {
+    background-color: #333333;
+    color: #e4e4e4;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+   height: 240px;
+   width: auto;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
